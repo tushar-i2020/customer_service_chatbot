@@ -1,1 +1,7 @@
 Youtube: https://youtu.be/dYMr2sq1DVI
+
+https://nodesmart.eu-gb.mybluemix.net/ui/#!/1?socketid=2YF965TQyR2Z7TcmAAAL
+
+https://cloud.ibm.com/devops/toolchains/c5b023f1-7401-457c-9770-df20591cdc97?env_id=ibm:yp:eu-gb
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=6de3a07d-623b-488a-8d19-2275562b4260&serviceInstanceID=8698c9f9-b109-486a-9c50-6233f378e4b7    [Assitant]
